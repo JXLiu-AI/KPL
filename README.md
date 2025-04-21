@@ -1,4 +1,4 @@
-# PyTorch Implementation for Our AAAI'24 Paper: "KPL: Training-Free Medical Knowledge Mining of Vision-Language Models" 
+PyTorch Implementation for Our AAAI'24 Paper: "KPL: Training-Free Medical Knowledge Mining of Vision-Language Models" 
 
 # Datasets
 
