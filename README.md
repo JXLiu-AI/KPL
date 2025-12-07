@@ -6,6 +6,8 @@ This repository contains the official implementation of the paper "KPL: Knowledg
 
 KPL is a training-free method for medical image classification that leverages knowledge-enhanced proxies. It utilizes CLIP's text encoder to generate text proxies and optimizes visual proxies using Optimal Transport (Greenkhorn algorithm).
 
+<img width="772" height="322" alt="image" src="https://github.com/user-attachments/assets/e72d57f0-8a53-4a11-99a0-7f2a99b541f0" />
+
 ## Requirements
 
 - Python 3.8+
