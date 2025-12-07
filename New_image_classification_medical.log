@@ -1,0 +1,500 @@
+2024-04-23 05:09:13,235 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Lung')
+2024-04-23 05:10:04,947 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:10:05,298 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:10:05,305 INFO:Function executed in 0.006518 seconds
+2024-04-23 05:10:05,654 INFO:accuracy with image proxy + sinkhorn: 66.67
+2024-04-23 05:10:08,186 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Lung')
+2024-04-23 05:11:00,916 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:11:01,282 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:11:01,289 INFO:Function executed in 0.006930 seconds
+2024-04-23 05:11:01,661 INFO:accuracy with image proxy + sinkhorn: 69.57
+2024-04-23 05:11:04,416 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Lung')
+2024-04-23 05:11:55,963 INFO:accuracy with text proxy: 58.70
+2024-04-23 05:11:56,318 INFO:accuracy with image proxy: 58.70
+2024-04-23 05:11:56,324 INFO:Function executed in 0.006435 seconds
+2024-04-23 05:11:56,674 INFO:accuracy with image proxy + sinkhorn: 71.74
+2024-04-23 05:11:59,195 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Lung')
+2024-04-23 05:12:51,713 INFO:accuracy with text proxy: 59.42
+2024-04-23 05:12:52,078 INFO:accuracy with image proxy: 59.42
+2024-04-23 05:12:52,085 INFO:Function executed in 0.006939 seconds
+2024-04-23 05:12:52,449 INFO:accuracy with image proxy + sinkhorn: 72.46
+2024-04-23 05:12:55,063 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Lung')
+2024-04-23 05:13:47,184 INFO:accuracy with text proxy: 59.42
+2024-04-23 05:13:47,546 INFO:accuracy with image proxy: 59.42
+2024-04-23 05:13:47,553 INFO:Function executed in 0.006922 seconds
+2024-04-23 05:13:47,915 INFO:accuracy with image proxy + sinkhorn: 71.01
+2024-04-23 05:13:50,477 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Lung')
+2024-04-23 05:14:42,712 INFO:accuracy with text proxy: 60.14
+2024-04-23 05:14:43,073 INFO:accuracy with image proxy: 59.42
+2024-04-23 05:14:43,080 INFO:Function executed in 0.006809 seconds
+2024-04-23 05:14:43,440 INFO:accuracy with image proxy + sinkhorn: 70.29
+2024-04-23 05:14:46,012 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Lung')
+2024-04-23 05:15:38,035 INFO:accuracy with text proxy: 60.14
+2024-04-23 05:15:38,399 INFO:accuracy with image proxy: 59.42
+2024-04-23 05:15:38,406 INFO:Function executed in 0.007302 seconds
+2024-04-23 05:15:38,768 INFO:accuracy with image proxy + sinkhorn: 68.12
+2024-04-23 05:15:41,269 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Lung')
+2024-04-23 05:16:33,033 INFO:accuracy with text proxy: 60.87
+2024-04-23 05:16:33,397 INFO:accuracy with image proxy: 60.14
+2024-04-23 05:16:33,404 INFO:Function executed in 0.006938 seconds
+2024-04-23 05:16:33,760 INFO:accuracy with image proxy + sinkhorn: 70.29
+2024-04-23 05:16:36,313 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Lung')
+2024-04-23 05:17:28,942 INFO:accuracy with text proxy: 60.87
+2024-04-23 05:17:29,302 INFO:accuracy with image proxy: 60.87
+2024-04-23 05:17:29,309 INFO:Function executed in 0.006765 seconds
+2024-04-23 05:17:29,672 INFO:accuracy with image proxy + sinkhorn: 70.29
+2024-04-23 05:17:32,364 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Lung')
+2024-04-23 05:18:24,280 INFO:accuracy with text proxy: 61.59
+2024-04-23 05:18:24,629 INFO:accuracy with image proxy: 60.87
+2024-04-23 05:18:24,635 INFO:Function executed in 0.006548 seconds
+2024-04-23 05:18:24,986 INFO:accuracy with image proxy + sinkhorn: 68.84
+2024-04-23 05:18:27,504 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Lung')
+2024-04-23 05:19:21,492 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:19:21,851 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:19:21,858 INFO:Function executed in 0.006846 seconds
+2024-04-23 05:19:22,221 INFO:accuracy with image proxy + sinkhorn: 66.67
+2024-04-23 05:19:24,999 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Lung')
+2024-04-23 05:20:18,784 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:20:19,138 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:20:19,145 INFO:Function executed in 0.006454 seconds
+2024-04-23 05:20:19,492 INFO:accuracy with image proxy + sinkhorn: 68.84
+2024-04-23 05:20:22,055 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Lung')
+2024-04-23 05:21:16,484 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:21:16,843 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:21:16,850 INFO:Function executed in 0.007056 seconds
+2024-04-23 05:21:17,219 INFO:accuracy with image proxy + sinkhorn: 70.29
+2024-04-23 05:21:19,807 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Lung')
+2024-04-23 05:22:13,455 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:22:13,808 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:22:13,814 INFO:Function executed in 0.006546 seconds
+2024-04-23 05:22:14,161 INFO:accuracy with image proxy + sinkhorn: 68.12
+2024-04-23 05:22:16,694 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Lung')
+2024-04-23 05:23:13,380 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:23:13,748 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:23:13,755 INFO:Function executed in 0.006961 seconds
+2024-04-23 05:23:14,131 INFO:accuracy with image proxy + sinkhorn: 66.67
+2024-04-23 05:23:17,613 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Lung')
+2024-04-23 05:24:11,827 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:24:12,216 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:24:12,223 INFO:Function executed in 0.007212 seconds
+2024-04-23 05:24:12,609 INFO:accuracy with image proxy + sinkhorn: 67.39
+2024-04-23 05:24:15,268 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Lung')
+2024-04-23 05:25:09,942 INFO:accuracy with text proxy: 57.97
+2024-04-23 05:25:10,308 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:25:10,315 INFO:Function executed in 0.006881 seconds
+2024-04-23 05:25:10,674 INFO:accuracy with image proxy + sinkhorn: 68.84
+2024-04-23 05:25:13,333 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Lung')
+2024-04-23 05:26:07,113 INFO:accuracy with text proxy: 58.70
+2024-04-23 05:26:07,460 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:26:07,467 INFO:Function executed in 0.006388 seconds
+2024-04-23 05:26:07,817 INFO:accuracy with image proxy + sinkhorn: 67.39
+2024-04-23 05:26:10,435 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Lung')
+2024-04-23 05:27:04,864 INFO:accuracy with text proxy: 59.42
+2024-04-23 05:27:05,220 INFO:accuracy with image proxy: 57.97
+2024-04-23 05:27:05,227 INFO:Function executed in 0.006769 seconds
+2024-04-23 05:27:05,580 INFO:accuracy with image proxy + sinkhorn: 69.57
+2024-04-23 05:27:08,175 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MontgomerySet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Lung')
+2024-04-23 05:28:05,749 INFO:accuracy with text proxy: 60.87
+2024-04-23 05:28:06,118 INFO:accuracy with image proxy: 59.42
+2024-04-23 05:28:06,125 INFO:Function executed in 0.006954 seconds
+2024-04-23 05:28:06,491 INFO:accuracy with image proxy + sinkhorn: 71.01
+2024-04-23 05:28:09,153 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Lung')
+2024-04-23 05:28:47,452 INFO:accuracy with text proxy: 49.55
+2024-04-23 05:28:47,788 INFO:accuracy with image proxy: 49.55
+2024-04-23 05:28:47,795 INFO:Function executed in 0.006510 seconds
+2024-04-23 05:28:48,126 INFO:accuracy with image proxy + sinkhorn: 73.72
+2024-04-23 05:28:50,688 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Lung')
+2024-04-23 05:29:29,441 INFO:accuracy with text proxy: 50.45
+2024-04-23 05:29:29,782 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:29:29,789 INFO:Function executed in 0.006820 seconds
+2024-04-23 05:29:30,131 INFO:accuracy with image proxy + sinkhorn: 73.72
+2024-04-23 05:29:32,717 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Lung')
+2024-04-23 05:30:11,944 INFO:accuracy with text proxy: 50.45
+2024-04-23 05:30:12,288 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:30:12,295 INFO:Function executed in 0.006826 seconds
+2024-04-23 05:30:12,636 INFO:accuracy with image proxy + sinkhorn: 73.56
+2024-04-23 05:30:15,317 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Lung')
+2024-04-23 05:30:53,829 INFO:accuracy with text proxy: 50.30
+2024-04-23 05:30:54,175 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:30:54,182 INFO:Function executed in 0.006892 seconds
+2024-04-23 05:30:54,529 INFO:accuracy with image proxy + sinkhorn: 73.56
+2024-04-23 05:30:57,144 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Lung')
+2024-04-23 05:31:37,303 INFO:accuracy with text proxy: 50.45
+2024-04-23 05:31:37,650 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:31:37,657 INFO:Function executed in 0.006964 seconds
+2024-04-23 05:31:38,007 INFO:accuracy with image proxy + sinkhorn: 74.02
+2024-04-23 05:31:40,582 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Lung')
+2024-04-23 05:32:19,893 INFO:accuracy with text proxy: 50.76
+2024-04-23 05:32:20,241 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:32:20,249 INFO:Function executed in 0.006848 seconds
+2024-04-23 05:32:20,589 INFO:accuracy with image proxy + sinkhorn: 74.62
+2024-04-23 05:32:23,253 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Lung')
+2024-04-23 05:33:01,967 INFO:accuracy with text proxy: 51.06
+2024-04-23 05:33:02,308 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:33:02,315 INFO:Function executed in 0.006835 seconds
+2024-04-23 05:33:02,655 INFO:accuracy with image proxy + sinkhorn: 74.62
+2024-04-23 05:33:05,181 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Lung')
+2024-04-23 05:33:46,221 INFO:accuracy with text proxy: 51.66
+2024-04-23 05:33:46,569 INFO:accuracy with image proxy: 50.91
+2024-04-23 05:33:46,576 INFO:Function executed in 0.006970 seconds
+2024-04-23 05:33:46,923 INFO:accuracy with image proxy + sinkhorn: 75.38
+2024-04-23 05:33:49,485 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Lung')
+2024-04-23 05:34:28,395 INFO:accuracy with text proxy: 53.02
+2024-04-23 05:34:28,742 INFO:accuracy with image proxy: 52.42
+2024-04-23 05:34:28,749 INFO:Function executed in 0.006914 seconds
+2024-04-23 05:34:29,089 INFO:accuracy with image proxy + sinkhorn: 75.23
+2024-04-23 05:34:31,738 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Lung')
+2024-04-23 05:35:11,214 INFO:accuracy with text proxy: 55.74
+2024-04-23 05:35:11,565 INFO:accuracy with image proxy: 55.29
+2024-04-23 05:35:11,572 INFO:Function executed in 0.006912 seconds
+2024-04-23 05:35:11,927 INFO:accuracy with image proxy + sinkhorn: 75.23
+2024-04-23 05:35:14,515 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Lung')
+2024-04-23 05:35:58,878 INFO:accuracy with text proxy: 49.40
+2024-04-23 05:35:59,241 INFO:accuracy with image proxy: 49.40
+2024-04-23 05:35:59,249 INFO:Function executed in 0.007281 seconds
+2024-04-23 05:35:59,618 INFO:accuracy with image proxy + sinkhorn: 78.55
+2024-04-23 05:36:02,412 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Lung')
+2024-04-23 05:36:47,042 INFO:accuracy with text proxy: 50.60
+2024-04-23 05:36:47,387 INFO:accuracy with image proxy: 50.60
+2024-04-23 05:36:47,394 INFO:Function executed in 0.006897 seconds
+2024-04-23 05:36:47,737 INFO:accuracy with image proxy + sinkhorn: 77.64
+2024-04-23 05:36:50,351 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Lung')
+2024-04-23 05:37:34,359 INFO:accuracy with text proxy: 52.87
+2024-04-23 05:37:34,691 INFO:accuracy with image proxy: 51.81
+2024-04-23 05:37:34,697 INFO:Function executed in 0.006468 seconds
+2024-04-23 05:37:35,027 INFO:accuracy with image proxy + sinkhorn: 78.25
+2024-04-23 05:37:37,830 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Lung')
+2024-04-23 05:38:22,876 INFO:accuracy with text proxy: 51.06
+2024-04-23 05:38:23,221 INFO:accuracy with image proxy: 51.36
+2024-04-23 05:38:23,228 INFO:Function executed in 0.007022 seconds
+2024-04-23 05:38:23,576 INFO:accuracy with image proxy + sinkhorn: 77.64
+2024-04-23 05:38:26,364 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Lung')
+2024-04-23 05:39:10,770 INFO:accuracy with text proxy: 51.51
+2024-04-23 05:39:11,116 INFO:accuracy with image proxy: 51.51
+2024-04-23 05:39:11,123 INFO:Function executed in 0.006852 seconds
+2024-04-23 05:39:11,468 INFO:accuracy with image proxy + sinkhorn: 77.04
+2024-04-23 05:39:14,206 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Lung')
+2024-04-23 05:39:58,423 INFO:accuracy with text proxy: 52.11
+2024-04-23 05:39:58,764 INFO:accuracy with image proxy: 51.66
+2024-04-23 05:39:58,771 INFO:Function executed in 0.006845 seconds
+2024-04-23 05:39:59,116 INFO:accuracy with image proxy + sinkhorn: 78.10
+2024-04-23 05:40:01,722 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Lung')
+2024-04-23 05:40:46,449 INFO:accuracy with text proxy: 55.29
+2024-04-23 05:40:46,798 INFO:accuracy with image proxy: 53.63
+2024-04-23 05:40:46,805 INFO:Function executed in 0.006928 seconds
+2024-04-23 05:40:47,156 INFO:accuracy with image proxy + sinkhorn: 78.85
+2024-04-23 05:40:49,991 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Lung')
+2024-04-23 05:41:34,482 INFO:accuracy with text proxy: 56.50
+2024-04-23 05:41:34,828 INFO:accuracy with image proxy: 55.14
+2024-04-23 05:41:34,835 INFO:Function executed in 0.006953 seconds
+2024-04-23 05:41:35,187 INFO:accuracy with image proxy + sinkhorn: 78.55
+2024-04-23 05:41:37,899 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Lung')
+2024-04-23 05:42:22,694 INFO:accuracy with text proxy: 60.27
+2024-04-23 05:42:23,037 INFO:accuracy with image proxy: 60.57
+2024-04-23 05:42:23,044 INFO:Function executed in 0.006868 seconds
+2024-04-23 05:42:23,393 INFO:accuracy with image proxy + sinkhorn: 78.10
+2024-04-23 05:42:26,089 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/ChinaSet/', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Lung')
+2024-04-23 05:43:10,409 INFO:accuracy with text proxy: 62.39
+2024-04-23 05:43:10,759 INFO:accuracy with image proxy: 63.44
+2024-04-23 05:43:10,766 INFO:Function executed in 0.006907 seconds
+2024-04-23 05:43:11,112 INFO:accuracy with image proxy + sinkhorn: 78.25
+2024-04-23 05:43:13,833 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='eyes')
+2024-04-23 05:44:09,001 INFO:accuracy with text proxy: 14.34
+2024-04-23 05:44:09,340 INFO:accuracy with image proxy: 13.76
+2024-04-23 05:44:09,347 INFO:Function executed in 0.006788 seconds
+2024-04-23 05:44:09,689 INFO:accuracy with image proxy + sinkhorn: 40.50
+2024-04-23 05:44:12,253 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='eyes')
+2024-04-23 05:45:07,415 INFO:accuracy with text proxy: 16.86
+2024-04-23 05:45:07,753 INFO:accuracy with image proxy: 16.67
+2024-04-23 05:45:07,760 INFO:Function executed in 0.006843 seconds
+2024-04-23 05:45:08,103 INFO:accuracy with image proxy + sinkhorn: 46.51
+2024-04-23 05:45:10,701 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='eyes')
+2024-04-23 05:46:04,981 INFO:accuracy with text proxy: 32.56
+2024-04-23 05:46:05,308 INFO:accuracy with image proxy: 30.81
+2024-04-23 05:46:05,315 INFO:Function executed in 0.006439 seconds
+2024-04-23 05:46:05,636 INFO:accuracy with image proxy + sinkhorn: 46.32
+2024-04-23 05:46:08,136 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='eyes')
+2024-04-23 05:47:04,597 INFO:accuracy with text proxy: 36.63
+2024-04-23 05:47:04,946 INFO:accuracy with image proxy: 36.82
+2024-04-23 05:47:04,953 INFO:Function executed in 0.007026 seconds
+2024-04-23 05:47:05,296 INFO:accuracy with image proxy + sinkhorn: 44.57
+2024-04-23 05:47:07,880 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='eyes')
+2024-04-23 05:48:03,887 INFO:accuracy with text proxy: 30.81
+2024-04-23 05:48:04,230 INFO:accuracy with image proxy: 36.05
+2024-04-23 05:48:04,237 INFO:Function executed in 0.006840 seconds
+2024-04-23 05:48:04,579 INFO:accuracy with image proxy + sinkhorn: 45.35
+2024-04-23 05:48:07,351 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='eyes')
+2024-04-23 05:49:02,382 INFO:accuracy with text proxy: 25.19
+2024-04-23 05:49:02,719 INFO:accuracy with image proxy: 23.45
+2024-04-23 05:49:02,726 INFO:Function executed in 0.006740 seconds
+2024-04-23 05:49:03,068 INFO:accuracy with image proxy + sinkhorn: 45.16
+2024-04-23 05:49:05,604 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='eyes')
+2024-04-23 05:50:00,978 INFO:accuracy with text proxy: 20.74
+2024-04-23 05:50:01,317 INFO:accuracy with image proxy: 29.46
+2024-04-23 05:50:01,324 INFO:Function executed in 0.006841 seconds
+2024-04-23 05:50:01,661 INFO:accuracy with image proxy + sinkhorn: 45.54
+2024-04-23 05:50:04,407 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='eyes')
+2024-04-23 05:51:00,142 INFO:accuracy with text proxy: 20.93
+2024-04-23 05:51:00,480 INFO:accuracy with image proxy: 29.65
+2024-04-23 05:51:00,487 INFO:Function executed in 0.006970 seconds
+2024-04-23 05:51:00,822 INFO:accuracy with image proxy + sinkhorn: 44.77
+2024-04-23 05:51:03,392 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='eyes')
+2024-04-23 05:51:57,423 INFO:accuracy with text proxy: 21.51
+2024-04-23 05:51:57,748 INFO:accuracy with image proxy: 22.87
+2024-04-23 05:51:57,754 INFO:Function executed in 0.006390 seconds
+2024-04-23 05:51:58,081 INFO:accuracy with image proxy + sinkhorn: 43.60
+2024-04-23 05:52:00,621 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='eyes')
+2024-04-23 05:52:54,899 INFO:accuracy with text proxy: 21.71
+2024-04-23 05:52:55,230 INFO:accuracy with image proxy: 21.12
+2024-04-23 05:52:55,236 INFO:Function executed in 0.006459 seconds
+2024-04-23 05:52:55,565 INFO:accuracy with image proxy + sinkhorn: 44.38
+2024-04-23 05:52:58,250 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='eyes')
+2024-04-23 05:53:56,730 INFO:accuracy with text proxy: 29.26
+2024-04-23 05:53:57,067 INFO:accuracy with image proxy: 24.81
+2024-04-23 05:53:57,073 INFO:Function executed in 0.006588 seconds
+2024-04-23 05:53:57,406 INFO:accuracy with image proxy + sinkhorn: 44.96
+2024-04-23 05:54:00,220 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='eyes')
+2024-04-23 05:54:59,708 INFO:accuracy with text proxy: 23.64
+2024-04-23 05:55:00,063 INFO:accuracy with image proxy: 20.54
+2024-04-23 05:55:00,070 INFO:Function executed in 0.007160 seconds
+2024-04-23 05:55:00,424 INFO:accuracy with image proxy + sinkhorn: 45.35
+2024-04-23 05:55:03,103 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='eyes')
+2024-04-23 05:56:03,243 INFO:accuracy with text proxy: 35.08
+2024-04-23 05:56:03,585 INFO:accuracy with image proxy: 34.30
+2024-04-23 05:56:03,592 INFO:Function executed in 0.006927 seconds
+2024-04-23 05:56:03,932 INFO:accuracy with image proxy + sinkhorn: 46.12
+2024-04-23 05:56:06,737 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='eyes')
+2024-04-23 05:57:06,409 INFO:accuracy with text proxy: 38.37
+2024-04-23 05:57:06,744 INFO:accuracy with image proxy: 35.47
+2024-04-23 05:57:06,751 INFO:Function executed in 0.006764 seconds
+2024-04-23 05:57:07,085 INFO:accuracy with image proxy + sinkhorn: 47.29
+2024-04-23 05:57:09,805 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='eyes')
+2024-04-23 05:58:10,116 INFO:accuracy with text proxy: 32.95
+2024-04-23 05:58:10,455 INFO:accuracy with image proxy: 25.58
+2024-04-23 05:58:10,462 INFO:Function executed in 0.006806 seconds
+2024-04-23 05:58:10,800 INFO:accuracy with image proxy + sinkhorn: 46.32
+2024-04-23 05:58:13,556 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='eyes')
+2024-04-23 05:59:15,736 INFO:accuracy with text proxy: 24.22
+2024-04-23 05:59:16,086 INFO:accuracy with image proxy: 36.05
+2024-04-23 05:59:16,093 INFO:Function executed in 0.007051 seconds
+2024-04-23 05:59:16,442 INFO:accuracy with image proxy + sinkhorn: 46.51
+2024-04-23 05:59:19,269 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='eyes')
+2024-04-23 06:00:19,245 INFO:accuracy with text proxy: 20.54
+2024-04-23 06:00:19,586 INFO:accuracy with image proxy: 18.60
+2024-04-23 06:00:19,594 INFO:Function executed in 0.006899 seconds
+2024-04-23 06:00:19,934 INFO:accuracy with image proxy + sinkhorn: 46.32
+2024-04-23 06:00:23,281 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='eyes')
+2024-04-23 06:01:21,851 INFO:accuracy with text proxy: 19.19
+2024-04-23 06:01:22,178 INFO:accuracy with image proxy: 17.44
+2024-04-23 06:01:22,184 INFO:Function executed in 0.006422 seconds
+2024-04-23 06:01:22,510 INFO:accuracy with image proxy + sinkhorn: 47.09
+2024-04-23 06:01:25,122 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='eyes')
+2024-04-23 06:02:25,212 INFO:accuracy with text proxy: 17.83
+2024-04-23 06:02:25,559 INFO:accuracy with image proxy: 16.28
+2024-04-23 06:02:25,567 INFO:Function executed in 0.007100 seconds
+2024-04-23 06:02:25,913 INFO:accuracy with image proxy + sinkhorn: 47.29
+2024-04-23 06:02:28,728 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/IDRiD', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='eyes')
+2024-04-23 06:03:28,391 INFO:accuracy with text proxy: 16.67
+2024-04-23 06:03:28,730 INFO:accuracy with image proxy: 13.76
+2024-04-23 06:03:28,737 INFO:Function executed in 0.006845 seconds
+2024-04-23 06:03:29,074 INFO:accuracy with image proxy + sinkhorn: 46.90
+2024-04-23 06:03:31,648 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='cataract')
+2024-04-23 06:04:08,608 INFO:accuracy with text proxy: 50.92
+2024-04-23 06:04:08,949 INFO:accuracy with image proxy: 51.41
+2024-04-23 06:04:08,956 INFO:Function executed in 0.006747 seconds
+2024-04-23 06:04:09,298 INFO:accuracy with image proxy + sinkhorn: 39.93
+2024-04-23 06:04:11,935 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='cataract')
+2024-04-23 06:04:48,894 INFO:accuracy with text proxy: 51.25
+2024-04-23 06:04:49,237 INFO:accuracy with image proxy: 50.75
+2024-04-23 06:04:49,244 INFO:Function executed in 0.006862 seconds
+2024-04-23 06:04:49,585 INFO:accuracy with image proxy + sinkhorn: 34.28
+2024-04-23 06:04:52,325 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='cataract')
+2024-04-23 06:05:28,966 INFO:accuracy with text proxy: 50.75
+2024-04-23 06:05:29,310 INFO:accuracy with image proxy: 49.58
+2024-04-23 06:05:29,317 INFO:Function executed in 0.006835 seconds
+2024-04-23 06:05:29,661 INFO:accuracy with image proxy + sinkhorn: 25.79
+2024-04-23 06:05:32,296 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='cataract')
+2024-04-23 06:06:08,717 INFO:accuracy with text proxy: 50.42
+2024-04-23 06:06:09,062 INFO:accuracy with image proxy: 48.92
+2024-04-23 06:06:09,069 INFO:Function executed in 0.006848 seconds
+2024-04-23 06:06:09,412 INFO:accuracy with image proxy + sinkhorn: 26.46
+2024-04-23 06:06:12,042 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='cataract')
+2024-04-23 06:06:48,399 INFO:accuracy with text proxy: 37.60
+2024-04-23 06:06:48,739 INFO:accuracy with image proxy: 36.11
+2024-04-23 06:06:48,746 INFO:Function executed in 0.006751 seconds
+2024-04-23 06:06:49,084 INFO:accuracy with image proxy + sinkhorn: 26.46
+2024-04-23 06:06:51,640 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='cataract')
+2024-04-23 06:07:28,294 INFO:accuracy with text proxy: 23.29
+2024-04-23 06:07:28,637 INFO:accuracy with image proxy: 24.13
+2024-04-23 06:07:28,644 INFO:Function executed in 0.006880 seconds
+2024-04-23 06:07:28,985 INFO:accuracy with image proxy + sinkhorn: 24.29
+2024-04-23 06:07:31,633 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='cataract')
+2024-04-23 06:08:07,948 INFO:accuracy with text proxy: 25.29
+2024-04-23 06:08:08,291 INFO:accuracy with image proxy: 27.12
+2024-04-23 06:08:08,298 INFO:Function executed in 0.006865 seconds
+2024-04-23 06:08:08,639 INFO:accuracy with image proxy + sinkhorn: 26.79
+2024-04-23 06:08:11,351 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='cataract')
+2024-04-23 06:08:47,823 INFO:accuracy with text proxy: 18.47
+2024-04-23 06:08:48,169 INFO:accuracy with image proxy: 20.80
+2024-04-23 06:08:48,176 INFO:Function executed in 0.006780 seconds
+2024-04-23 06:08:48,523 INFO:accuracy with image proxy + sinkhorn: 27.45
+2024-04-23 06:08:51,060 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='cataract')
+2024-04-23 06:09:27,407 INFO:accuracy with text proxy: 17.80
+2024-04-23 06:09:27,748 INFO:accuracy with image proxy: 18.30
+2024-04-23 06:09:27,755 INFO:Function executed in 0.006728 seconds
+2024-04-23 06:09:28,101 INFO:accuracy with image proxy + sinkhorn: 27.79
+2024-04-23 06:09:30,681 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='cataract')
+2024-04-23 06:10:07,048 INFO:accuracy with text proxy: 16.97
+2024-04-23 06:10:07,395 INFO:accuracy with image proxy: 16.97
+2024-04-23 06:10:07,402 INFO:Function executed in 0.006842 seconds
+2024-04-23 06:10:07,743 INFO:accuracy with image proxy + sinkhorn: 28.12
+2024-04-23 06:10:10,257 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='cataract')
+2024-04-23 06:10:50,718 INFO:accuracy with text proxy: 50.08
+2024-04-23 06:10:51,061 INFO:accuracy with image proxy: 49.08
+2024-04-23 06:10:51,069 INFO:Function executed in 0.006892 seconds
+2024-04-23 06:10:51,409 INFO:accuracy with image proxy + sinkhorn: 31.11
+2024-04-23 06:10:54,090 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='cataract')
+2024-04-23 06:11:34,945 INFO:accuracy with text proxy: 47.59
+2024-04-23 06:11:35,296 INFO:accuracy with image proxy: 42.10
+2024-04-23 06:11:35,303 INFO:Function executed in 0.006872 seconds
+2024-04-23 06:11:35,651 INFO:accuracy with image proxy + sinkhorn: 39.43
+2024-04-23 06:11:38,732 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='cataract')
+2024-04-23 06:12:21,943 INFO:accuracy with text proxy: 49.08
+2024-04-23 06:12:22,293 INFO:accuracy with image proxy: 46.09
+2024-04-23 06:12:22,300 INFO:Function executed in 0.007002 seconds
+2024-04-23 06:12:22,648 INFO:accuracy with image proxy + sinkhorn: 37.60
+2024-04-23 06:12:25,499 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='cataract')
+2024-04-23 06:13:06,178 INFO:accuracy with text proxy: 40.93
+2024-04-23 06:13:06,523 INFO:accuracy with image proxy: 39.77
+2024-04-23 06:13:06,530 INFO:Function executed in 0.006931 seconds
+2024-04-23 06:13:06,873 INFO:accuracy with image proxy + sinkhorn: 38.94
+2024-04-23 06:13:10,536 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='cataract')
+2024-04-23 06:13:50,587 INFO:accuracy with text proxy: 36.94
+2024-04-23 06:13:50,928 INFO:accuracy with image proxy: 36.11
+2024-04-23 06:13:50,936 INFO:Function executed in 0.007081 seconds
+2024-04-23 06:13:51,290 INFO:accuracy with image proxy + sinkhorn: 35.44
+2024-04-23 06:13:53,863 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='cataract')
+2024-04-23 06:14:33,954 INFO:accuracy with text proxy: 22.13
+2024-04-23 06:14:34,304 INFO:accuracy with image proxy: 24.96
+2024-04-23 06:14:34,311 INFO:Function executed in 0.006955 seconds
+2024-04-23 06:14:34,658 INFO:accuracy with image proxy + sinkhorn: 35.61
+2024-04-23 06:14:37,268 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='cataract')
+2024-04-23 06:15:17,768 INFO:accuracy with text proxy: 24.13
+2024-04-23 06:15:18,111 INFO:accuracy with image proxy: 28.29
+2024-04-23 06:15:18,118 INFO:Function executed in 0.006902 seconds
+2024-04-23 06:15:18,459 INFO:accuracy with image proxy + sinkhorn: 35.61
+2024-04-23 06:15:21,366 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='cataract')
+2024-04-23 06:16:01,497 INFO:accuracy with text proxy: 17.97
+2024-04-23 06:16:01,842 INFO:accuracy with image proxy: 21.13
+2024-04-23 06:16:01,849 INFO:Function executed in 0.006926 seconds
+2024-04-23 06:16:02,195 INFO:accuracy with image proxy + sinkhorn: 37.77
+2024-04-23 06:16:05,279 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='cataract')
+2024-04-23 06:16:45,330 INFO:accuracy with text proxy: 17.47
+2024-04-23 06:16:45,675 INFO:accuracy with image proxy: 20.97
+2024-04-23 06:16:45,682 INFO:Function executed in 0.006913 seconds
+2024-04-23 06:16:46,028 INFO:accuracy with image proxy + sinkhorn: 37.77
+2024-04-23 06:16:48,921 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/CataractDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='cataract')
+2024-04-23 06:17:28,905 INFO:accuracy with text proxy: 16.64
+2024-04-23 06:17:29,265 INFO:accuracy with image proxy: 16.97
+2024-04-23 06:17:29,272 INFO:Function executed in 0.007257 seconds
+2024-04-23 06:17:29,625 INFO:accuracy with image proxy + sinkhorn: 37.60
+2024-04-23 06:17:32,278 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Cell')
+2024-04-23 06:19:40,653 INFO:accuracy with text proxy: 49.31
+2024-04-23 06:19:41,328 INFO:accuracy with image proxy: 48.75
+2024-04-23 06:19:41,335 INFO:Function executed in 0.007050 seconds
+2024-04-23 06:19:42,013 INFO:accuracy with image proxy + sinkhorn: 39.72
+2024-04-23 06:19:45,485 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Cell')
+2024-04-23 06:21:52,009 INFO:accuracy with text proxy: 54.04
+2024-04-23 06:21:52,701 INFO:accuracy with image proxy: 54.04
+2024-04-23 06:21:52,708 INFO:Function executed in 0.007052 seconds
+2024-04-23 06:21:53,403 INFO:accuracy with image proxy + sinkhorn: 62.71
+2024-04-23 06:21:56,845 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Cell')
+2024-04-23 06:24:01,403 INFO:accuracy with text proxy: 56.76
+2024-04-23 06:24:02,074 INFO:accuracy with image proxy: 56.67
+2024-04-23 06:24:02,081 INFO:Function executed in 0.006713 seconds
+2024-04-23 06:24:02,751 INFO:accuracy with image proxy + sinkhorn: 68.14
+2024-04-23 06:24:05,428 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Cell')
+2024-04-23 06:26:10,104 INFO:accuracy with text proxy: 62.20
+2024-04-23 06:26:10,775 INFO:accuracy with image proxy: 63.36
+2024-04-23 06:26:10,781 INFO:Function executed in 0.006565 seconds
+2024-04-23 06:26:11,452 INFO:accuracy with image proxy + sinkhorn: 77.24
+2024-04-23 06:26:14,152 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Cell')
+2024-04-23 06:28:19,619 INFO:accuracy with text proxy: 65.45
+2024-04-23 06:28:20,292 INFO:accuracy with image proxy: 67.00
+2024-04-23 06:28:20,300 INFO:Function executed in 0.007266 seconds
+2024-04-23 06:28:20,973 INFO:accuracy with image proxy + sinkhorn: 78.21
+2024-04-23 06:28:23,803 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Cell')
+2024-04-23 06:30:29,277 INFO:accuracy with text proxy: 61.34
+2024-04-23 06:30:29,951 INFO:accuracy with image proxy: 62.30
+2024-04-23 06:30:29,958 INFO:Function executed in 0.006869 seconds
+2024-04-23 06:30:30,635 INFO:accuracy with image proxy + sinkhorn: 74.83
+2024-04-23 06:30:33,303 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Cell')
+2024-04-23 06:32:39,460 INFO:accuracy with text proxy: 63.07
+2024-04-23 06:32:40,136 INFO:accuracy with image proxy: 64.19
+2024-04-23 06:32:40,143 INFO:Function executed in 0.006977 seconds
+2024-04-23 06:32:40,819 INFO:accuracy with image proxy + sinkhorn: 76.10
+2024-04-23 06:32:43,584 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Cell')
+2024-04-23 06:34:50,181 INFO:accuracy with text proxy: 62.69
+2024-04-23 06:34:50,862 INFO:accuracy with image proxy: 64.05
+2024-04-23 06:34:50,869 INFO:Function executed in 0.007119 seconds
+2024-04-23 06:34:51,557 INFO:accuracy with image proxy + sinkhorn: 76.05
+2024-04-23 06:34:55,123 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Cell')
+2024-04-23 06:37:01,952 INFO:accuracy with text proxy: 64.06
+2024-04-23 06:37:02,629 INFO:accuracy with image proxy: 65.70
+2024-04-23 06:37:02,636 INFO:Function executed in 0.006960 seconds
+2024-04-23 06:37:03,313 INFO:accuracy with image proxy + sinkhorn: 77.64
+2024-04-23 06:37:06,038 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Cell')
+2024-04-23 06:39:12,821 INFO:accuracy with text proxy: 62.38
+2024-04-23 06:39:13,501 INFO:accuracy with image proxy: 63.97
+2024-04-23 06:39:13,508 INFO:Function executed in 0.007222 seconds
+2024-04-23 06:39:14,192 INFO:accuracy with image proxy + sinkhorn: 75.79
+2024-04-23 06:39:17,220 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=5, type='Cell')
+2024-04-23 06:44:21,746 INFO:accuracy with text proxy: 48.05
+2024-04-23 06:44:22,425 INFO:accuracy with image proxy: 48.13
+2024-04-23 06:44:22,433 INFO:Function executed in 0.006996 seconds
+2024-04-23 06:44:23,112 INFO:accuracy with image proxy + sinkhorn: 33.22
+2024-04-23 06:44:26,650 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=10, type='Cell')
+2024-04-23 06:49:29,272 INFO:accuracy with text proxy: 53.24
+2024-04-23 06:49:29,955 INFO:accuracy with image proxy: 52.75
+2024-04-23 06:49:29,962 INFO:Function executed in 0.006988 seconds
+2024-04-23 06:49:30,639 INFO:accuracy with image proxy + sinkhorn: 55.40
+2024-04-23 06:49:34,022 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=15, type='Cell')
+2024-04-23 06:54:37,913 INFO:accuracy with text proxy: 58.92
+2024-04-23 06:54:38,598 INFO:accuracy with image proxy: 59.68
+2024-04-23 06:54:38,605 INFO:Function executed in 0.006906 seconds
+2024-04-23 06:54:39,284 INFO:accuracy with image proxy + sinkhorn: 73.89
+2024-04-23 06:54:42,042 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=20, type='Cell')
+2024-04-23 06:59:47,556 INFO:accuracy with text proxy: 60.02
+2024-04-23 06:59:48,239 INFO:accuracy with image proxy: 60.47
+2024-04-23 06:59:48,246 INFO:Function executed in 0.007036 seconds
+2024-04-23 06:59:48,928 INFO:accuracy with image proxy + sinkhorn: 78.09
+2024-04-23 06:59:51,719 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=25, type='Cell')
+2024-04-23 07:04:55,127 INFO:accuracy with text proxy: 58.14
+2024-04-23 07:04:55,798 INFO:accuracy with image proxy: 58.11
+2024-04-23 07:04:55,805 INFO:Function executed in 0.006588 seconds
+2024-04-23 07:04:56,477 INFO:accuracy with image proxy + sinkhorn: 74.76
+2024-04-23 07:04:59,151 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=30, type='Cell')
+2024-04-23 07:10:02,561 INFO:accuracy with text proxy: 61.91
+2024-04-23 07:10:03,239 INFO:accuracy with image proxy: 62.71
+2024-04-23 07:10:03,246 INFO:Function executed in 0.007104 seconds
+2024-04-23 07:10:03,928 INFO:accuracy with image proxy + sinkhorn: 80.34
+2024-04-23 07:10:07,376 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=35, type='Cell')
+2024-04-23 07:15:10,227 INFO:accuracy with text proxy: 64.92
+2024-04-23 07:15:10,906 INFO:accuracy with image proxy: 65.92
+2024-04-23 07:15:10,914 INFO:Function executed in 0.007048 seconds
+2024-04-23 07:15:11,594 INFO:accuracy with image proxy + sinkhorn: 82.53
+2024-04-23 07:15:15,144 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=40, type='Cell')
+2024-04-23 07:20:21,027 INFO:accuracy with text proxy: 63.89
+2024-04-23 07:20:21,707 INFO:accuracy with image proxy: 65.27
+2024-04-23 07:20:21,721 INFO:Function executed in 0.013179 seconds
+2024-04-23 07:20:22,401 INFO:accuracy with image proxy + sinkhorn: 80.92
+2024-04-23 07:20:25,913 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=45, type='Cell')
+2024-04-23 07:25:31,453 INFO:accuracy with text proxy: 63.22
+2024-04-23 07:25:32,135 INFO:accuracy with image proxy: 64.44
+2024-04-23 07:25:32,142 INFO:Function executed in 0.007019 seconds
+2024-04-23 07:25:32,822 INFO:accuracy with image proxy + sinkhorn: 80.86
+2024-04-23 07:25:35,576 INFO:Running with args: Namespace(data_path='/data/jiaxiang/5th/classify_by_description_release-master/MalariaCellImagesDataset_newdataset', arch='ViT-L/14@336px', workers=8, iters_proxy=2000, iters_sinkhorn=20, batch_size=256, lr=10, tau_t=0.01, tau_i=0.04, alpha=0.6, gamma=0.0, k=50, type='Cell')
+2024-04-23 07:30:41,554 INFO:accuracy with text proxy: 60.75
+2024-04-23 07:30:42,235 INFO:accuracy with image proxy: 61.54
+2024-04-23 07:30:42,243 INFO:Function executed in 0.007124 seconds
+2024-04-23 07:30:42,924 INFO:accuracy with image proxy + sinkhorn: 78.99

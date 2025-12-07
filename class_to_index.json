@@ -1,0 +1,7 @@
+{
+    "mild nonproliferative retinopathy": 0,
+    "moderate nonproliferative retinopathy": 1,
+    "no apparent retinopathy": 2,
+    "proliferative retinopathy": 3,
+    "severe nonproliferative retinopathy": 4
+}
