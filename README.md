@@ -65,13 +65,13 @@ python Main.py --data_path ./data/brain_tumor --type brain --k 8
 If you find this code useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{liu2025kpl,
-  title={Kpl: Training-free medical knowledge mining of vision-language models},
-  author={Liu, Jiaxiang and Hu, Tianxiang and Du, Jiawei and Zhang, Ruiyuan and Zhou, Joey Tianyi and Liu, Zuozhu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={18},
-  pages={18852--18860},
-  year={2025}
+@inproceedings{liu2024medcot,
+  title={MedCoT: Medical Chain of Thought via Hierarchical Expert},
+  author={Liu, Jiaxiang and Wang, Yuan and Du, Jiawei and Zhou, Joey and Liu, Zuozhu},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={17371--17389},
+  year={2024}
 }
+
+
 ```
