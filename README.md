@@ -1,6 +1,6 @@
-# KPL: Knowledge-enhanced Proxy Learning for Training-Free Medical Image Classification
+# KPL: Training-Free Medical Knowledge Mining of Vision-Language Models
 
-This repository contains the official implementation of the paper "KPL: Knowledge-enhanced Proxy Learning for Training-Free Medical Image Classification".
+This repository contains the official implementation of the paper "KPL: Training-Free Medical Knowledge Mining of Vision-Language Models".
 
 ## Introduction
 
