@@ -1,6 +1,6 @@
 # KPL: Training-Free Medical Knowledge Mining of Vision-Language Models
 
-This repository contains the official implementation of the paper "KPL: Training-Free Medical Knowledge Mining of Vision-Language Models".
+This repository contains the official implementation of the paper **["KPL: Training-Free Medical Knowledge Mining of Vision-Language Models"](https://arxiv.org/pdf/2501.11231)**.
 
 ## Introduction
 
